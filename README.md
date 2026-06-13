@@ -39,6 +39,9 @@ my progress over time.
   <a href="https://github.com/stars/SaraFreitas-dev/lists/42-school">
     <img src="icones/42_projects.png" width="250"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/stars/SaraFreitas-dev/lists/python">
     <img src="icones/python_projects.png" width="250"/>
   </a>
@@ -46,6 +49,7 @@ my progress over time.
     <img src="icones/c_projects.png" width="250"/>
   </a>
 </p>
+
   <sub>Click any icon to explore the collection.</sub>
 
 ---
