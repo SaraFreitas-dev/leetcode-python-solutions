@@ -10,30 +10,6 @@ Core curriculum.
 
 ---
 
-## 🎯 Objectives
-
--   Improve algorithmic thinking
--   Practice Python consistently
--   Strengthen understanding of data structures
--   Prepare for technical interviews
--   Complement my 42 Common Core journey
--   Track long-term progress and learning
-
----
-
-## 📈 Learning Journey
-
-This repository is not only a collection of accepted solutions but also
-a record of my growth as a developer.
-
-By solving problems regularly, I aim to:
-
--   Develop cleaner and more efficient solutions
--   Explore different approaches to the same problem
--   Improve time and space complexity awareness
--   Build strong problem-solving habits
-
----
 
 ## 🔄 Automatic Synchronization
 
@@ -44,7 +20,7 @@ and automatically pushes accepted submissions to a repository. This
 allows me to keep a structured archive of solved problems while tracking
 my progress over time.
 
-📥 **Install LeetHub v3:**\
+📥 **Install LeetHub v3:**
 
 <p align="center">
   <a href="https://github.com/QasimWani/LeetHub">
@@ -74,6 +50,34 @@ my progress over time.
 
 ---
 
+## 🎯 Objectives
+
+-   Improve algorithmic thinking
+-   Practice Python consistently
+-   Strengthen understanding of data structures
+-   Prepare for technical interviews
+-   Complement my 42 Common Core journey
+-   Track long-term progress and learning
+
+---
+
+## 📈 Learning Journey
+
+This repository is not only a collection of accepted solutions but also
+a record of my growth as a developer.
+
+By solving problems regularly, I aim to:
+
+-   Develop cleaner and more efficient solutions
+-   Explore different approaches to the same problem
+-   Improve time and space complexity awareness
+-   Build strong problem-solving habits
+
+
+---
+
+
 ⭐ If you're also learning algorithms, preparing for technical
 interviews, or following the 42 curriculum, feel free to explore the
 solutions and compare different approaches.
+
