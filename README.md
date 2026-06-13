@@ -8,6 +8,8 @@ understanding of algorithms and data structures, prepare for technical
 interviews, and reinforce concepts encountered throughout the Common
 Core curriculum.
 
+---
+
 ## 🎯 Objectives
 
 -   Improve algorithmic thinking
@@ -16,6 +18,8 @@ Core curriculum.
 -   Prepare for technical interviews
 -   Complement my 42 Common Core journey
 -   Track long-term progress and learning
+
+---
 
 ## 📈 Learning Journey
 
@@ -29,6 +33,8 @@ By solving problems regularly, I aim to:
 -   Improve time and space complexity awareness
 -   Build strong problem-solving habits
 
+---
+
 ## 🔄 Automatic Synchronization
 
 Solutions are automatically synchronized using **LeetHub v3**.
@@ -39,19 +45,34 @@ allows me to keep a structured archive of solved problems while tracking
 my progress over time.
 
 📥 **Install LeetHub v3:**\
-https://github.com/QasimWani/LeetHub
+
+<p align="center">
+  <a href="https://github.com/QasimWani/LeetHub">
+    <img src="icones/leetcode.png" width="250"/>
+  </a>
+
+---
+
 
 ## 🌌 Explore My Learning Collections
 
+<p align="center">
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-documentation">
+    <img src="icones/42_documentation.png" width="250"/>
+  </a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-school">
+    <img src="icones/42_projects.png" width="250"/>
+  </a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/python">
+    <img src="icones/python_projects.png" width="250"/>
+  </a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/c">
+    <img src="icones/c_projects.png" width="250"/>
+  </a>
+</p>
+  <sub>Click any icon to explore the collection.</sub>
 
-| Collection | Link |
-|------------|------|
-| 📑 Documentation | ⭐ [Open Collection](https://github.com/stars/SaraFreitas-dev/lists/42-documentation) |
-| 🎓 42 School | ⭐ [Open Collection](https://github.com/stars/SaraFreitas-dev/lists/42-school) |
-| 🐍 Python | ⭐ [Open Collection](https://github.com/stars/SaraFreitas-dev/lists/python) |
-| 💾 C Programming | ⭐ [Open Collection](https://github.com/stars/SaraFreitas-dev/lists/c) |
-
-------------------------------------------------------------------------
+---
 
 ⭐ If you're also learning algorithms, preparing for technical
 interviews, or following the 42 curriculum, feel free to explore the
