@@ -92,6 +92,7 @@ solutions and compare different approaches.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,28 @@ solutions and compare different approaches.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 <!---LeetCode Topics End-->
