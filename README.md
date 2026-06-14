@@ -85,6 +85,7 @@ By solving problems regularly, I aim to:
 interviews, or following the 42 curriculum, feel free to explore the
 solutions and compare different approaches.
 
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
