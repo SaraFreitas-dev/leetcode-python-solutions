@@ -3,16 +3,21 @@ class Solution:
         counter: int = 0
         if nums == sorted(nums):
             return 0
+
         while nums != sorted(nums):
             min_sum: int = inf
             min_index: int = 0
 
+            # Find the minimum sum
             for i in range(len(nums) - 1):
                 current_sum: int = nums[i] + nums[i + 1]
-                if current_sum < min_sum:  # Find the minimum sum
+                if current_sum < min_sum:
                     min_sum = current_sum
                     min_index = i
 
+            # Update nums into a new list with the min sum value
+            # Increase 1 into the operation (counter)
+            # Check again if the nums list is now sorted
             nums_lst: list[int] = []
             for j in range(len(nums)):
                 if j != min_index and j != (min_index + 1):
