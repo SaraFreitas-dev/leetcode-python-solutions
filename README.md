@@ -24,7 +24,7 @@ my progress over time.
 
 <p align="center">
   <a href="https://github.com/QasimWani/LeetHub">
-    <img src="icones/leetcode.png" width="250"/>
+    <img src="icones/leetcode.png" width="150"/>
   </a>
 
 ---
@@ -34,56 +34,23 @@ my progress over time.
 
 <p align="center">
   <a href="https://github.com/stars/SaraFreitas-dev/lists/42-documentation">
-    <img src="icones/42_documentation.png" width="250"/>
+    <img src="icones/42_documentation.png" width="150"/>
   </a>
   <a href="https://github.com/stars/SaraFreitas-dev/lists/42-school">
-    <img src="icones/42_projects.png" width="250"/>
+    <img src="icones/42_projects.png" width="150"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/stars/SaraFreitas-dev/lists/python">
-    <img src="icones/python_projects.png" width="250"/>
+    <img src="icones/python_projects.png" width="150"/>
   </a>
   <a href="https://github.com/stars/SaraFreitas-dev/lists/c">
-    <img src="icones/c_projects.png" width="250"/>
+    <img src="icones/c_projects.png" width="150"/>
   </a>
 </p>
 
   <sub>Click any icon to explore the collection.</sub>
-
----
-
-## 🎯 Objectives
-
--   Improve algorithmic thinking
--   Practice Python consistently
--   Strengthen understanding of data structures
--   Prepare for technical interviews
--   Complement my 42 Common Core journey
--   Track long-term progress and learning
-
----
-
-## 📈 Learning Journey
-
-This repository is not only a collection of accepted solutions but also
-a record of my growth as a developer.
-
-By solving problems regularly, I aim to:
-
--   Develop cleaner and more efficient solutions
--   Explore different approaches to the same problem
--   Improve time and space complexity awareness
--   Build strong problem-solving habits
-
-
----
-
-
-⭐ If you're also learning algorithms, preparing for technical
-interviews, or following the 42 curriculum, feel free to explore the
-solutions and compare different approaches.
 
 ---
 
@@ -134,3 +101,39 @@ solutions and compare different approaches.
 | [1732-find-the-highest-altitude](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
+
+---
+
+## 🎯 Objectives
+
+-   Improve algorithmic thinking
+-   Practice Python consistently
+-   Strengthen understanding of data structures
+-   Prepare for technical interviews
+-   Complement my 42 Common Core journey
+-   Track long-term progress and learning
+
+---
+
+## 📈 Learning Journey
+
+This repository is not only a collection of accepted solutions but also
+a record of my growth as a developer.
+
+By solving problems regularly, I aim to:
+
+-   Develop cleaner and more efficient solutions
+-   Explore different approaches to the same problem
+-   Improve time and space complexity awareness
+-   Build strong problem-solving habits
+
+
+---
+
+
+⭐ If you're also learning algorithms, preparing for technical
+interviews, or following the 42 curriculum, feel free to explore the
+solutions and compare different approaches.
+
+---
+
