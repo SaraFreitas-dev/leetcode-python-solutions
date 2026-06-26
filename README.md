@@ -105,6 +105,7 @@ solutions and compare different approaches.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/1732-find-the-highest-altitude/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -126,4 +127,8 @@ solutions and compare different approaches.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
