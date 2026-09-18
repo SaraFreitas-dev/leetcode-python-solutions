@@ -70,9 +70,11 @@ my progress over time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
 | [0189-rotate-array](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -106,6 +108,10 @@ my progress over time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
