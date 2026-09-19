@@ -71,6 +71,7 @@ my progress over time.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,11 +108,28 @@ my progress over time.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0189-rotate-array](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
