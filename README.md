@@ -76,6 +76,7 @@ my progress over time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
+| [0035-search-insert-position](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0035-search-insert-position/) | Easy |
 | [0189-rotate-array](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -130,6 +131,10 @@ my progress over time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
