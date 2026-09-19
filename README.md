@@ -72,6 +72,7 @@ my progress over time.
 | [0013-roman-to-integer](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0058-length-of-last-word/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
