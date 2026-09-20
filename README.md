@@ -60,6 +60,7 @@ my progress over time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ my progress over time.
 | [0189-rotate-array](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2574-left-and-right-sum-differences/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -138,6 +140,10 @@ my progress over time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0035-search-insert-position/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
