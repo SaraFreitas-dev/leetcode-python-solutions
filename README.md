@@ -73,6 +73,7 @@ my progress over time.
 | [0014-longest-common-prefix](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0058-length-of-last-word/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ my progress over time.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
