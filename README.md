@@ -10,6 +10,11 @@ Core curriculum.
 
 ---
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sfontes94?theme=unicorn" width="500"/>
+</p>
+
+---
 
 ## 🔄 Automatic Synchronization
 
@@ -32,6 +37,8 @@ my progress over time.
 
 ## 🌌 Explore My Learning Collections
 
+  <sub>Click any icon to explore them.</sub>
+
 <p align="center">
   <a href="https://github.com/stars/SaraFreitas-dev/lists/42-documentation">
     <img src="icones/42_documentation.png" width="150"/>
@@ -49,8 +56,6 @@ my progress over time.
     <img src="icones/c_projects.png" width="150"/>
   </a>
 </p>
-
-  <sub>Click any icon to explore the collection.</sub>
 
 ---
 
