@@ -4,6 +4,5 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
         res: list = []
-
-        res = list(zip(*matrix[::-1]))
+        res = [list(row) for row in zip(*matrix[::-1])]
         matrix[0:] = res
