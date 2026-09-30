@@ -71,6 +71,7 @@ my progress over time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ my progress over time.
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2553-separate-the-digits-in-an-array/) | Easy |
@@ -153,6 +155,10 @@ my progress over time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
 
 ---
