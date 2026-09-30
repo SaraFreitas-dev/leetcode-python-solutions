@@ -83,6 +83,7 @@ my progress over time.
 | [0035-search-insert-position](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0035-search-insert-position/) | Easy |
 | [0189-rotate-array](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0189-rotate-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/1732-find-the-highest-altitude/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -97,6 +98,7 @@ my progress over time.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Doubly-Linked List
