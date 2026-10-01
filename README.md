@@ -78,6 +78,7 @@ my progress over time.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0058-length-of-last-word/) | Easy |
 | [0796-rotate-string](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0796-rotate-string/) | Easy |
@@ -159,6 +160,14 @@ my progress over time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Medium/0048-rotate-image/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SaraFreitas-dev/leetcode-python-solutions/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
